@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iti\\MVC_Project\\ExaminationSystemITI\\ExaminationSystemITI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7418ADF0-B231-43AB-B1DB-E3A0B8616111}|ExaminationSystemITI\\ExaminationSystemITI.csproj|d:\\iti\\mvc_project\\examinationsystemiti\\examinationsystemiti\\examinationsystemiti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7418ADF0-B231-43AB-B1DB-E3A0B8616111}|ExaminationSystemITI\\ExaminationSystemITI.csproj|solutionrelative:examinationsystemiti\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7418ADF0-B231-43AB-B1DB-E3A0B8616111}|ExaminationSystemITI\\ExaminationSystemITI.csproj|D:\\iti\\MVC_Project\\ExaminationSystemITI\\ExaminationSystemITI\\examinationsystemiti\\abstractions\\interfaces\\ichoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7418ADF0-B231-43AB-B1DB-E3A0B8616111}|ExaminationSystemITI\\ExaminationSystemITI.csproj|solutionrelative:examinationsystemiti\\abstractions\\interfaces\\ichoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\iti\\MVC_Project\\ExaminationSystemITI\\ExaminationSystemITI\\ExaminationSystemITI\\appsettings.json",
+              "RelativeDocumentMoniker": "ExaminationSystemITI\\appsettings.json",
+              "ToolTip": "D:\\iti\\MVC_Project\\ExaminationSystemITI\\ExaminationSystemITI\\ExaminationSystemITI\\appsettings.json",
+              "RelativeToolTip": "ExaminationSystemITI\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-20T16:08:14.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IChoiceService.cs",
+              "DocumentMoniker": "D:\\iti\\MVC_Project\\ExaminationSystemITI\\ExaminationSystemITI\\ExaminationSystemITI\\Abstractions\\Interfaces\\IChoiceService.cs",
+              "RelativeDocumentMoniker": "ExaminationSystemITI\\Abstractions\\Interfaces\\IChoiceService.cs",
+              "ToolTip": "D:\\iti\\MVC_Project\\ExaminationSystemITI\\ExaminationSystemITI\\ExaminationSystemITI\\Abstractions\\Interfaces\\IChoiceService.cs",
+              "RelativeToolTip": "ExaminationSystemITI\\Abstractions\\Interfaces\\IChoiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T21:23:06.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
